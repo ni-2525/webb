@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+.top{background-image:url(ai-generated-8637800_640.jpg) ;
+}
+section{
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
